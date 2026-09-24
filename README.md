@@ -1,14 +1,12 @@
-<img width="778" height="558" alt="scene1" src="https://github.com/user-attachments/assets/ca210f92-75a1-412d-845e-3f5958c11fe3" />
+# Turtle
 
-Turtle
-
-Turtle is an interactive environmental education game that brings ocean conservation to life.
+### Turtle is an interactive environmental education game that brings ocean conservation to life.
 
 Players guide a baby sea turtle through the ocean, clearing debris, rescuing marine animals, and searching for its mother. Through exploration, interaction, and dialogue, Turtle turns environmental issues into an experience that players can see, explore, and emotionally connect with.
 
 <img width="778" height="558" alt="scene1" src="https://github.com/user-attachments/assets/f648ae49-d635-4c00-9562-ddd04567f793" />
 
-🌊 About the Game
+## 🌊 About the Game
 
 Turtle is designed for children, teenagers, environmental educators, and anyone interested in ocean conservation.
 
@@ -20,7 +18,7 @@ By turning abstract environmental issues into interactive experiences, Turtle en
 
 <img width="778" height="558" alt="scene2" src="https://github.com/user-attachments/assets/5f9fcf45-6edf-433c-9538-c1a26e3e10fb" />
 
-♿ Accessibility
+## ♿ Accessibility
 
 Accessibility was considered throughout the design of Turtle.
 
@@ -34,7 +32,7 @@ Turtle aims to make environmental education not only engaging, but also accessib
 
 <img width="778" height="558" alt="scene3" src="https://github.com/user-attachments/assets/168173c5-8b47-407f-9eb6-918abcb9c27b" />
 
-🤖 On-Device AI
+## 🤖 On-Device AI
 
 Turtle integrates Apple Foundation Models to bring local AI into the game.
 
